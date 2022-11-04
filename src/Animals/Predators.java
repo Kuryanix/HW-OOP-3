@@ -47,5 +47,6 @@ public class Predators extends Mammals {
     public String toString() {
         return "Животное: " + name + ", возраст: " + age + ", среда обитания: " + biom + ", скорость: " + speed + ", тип пищи: " + typeOfFood;
     }
+
 }
 

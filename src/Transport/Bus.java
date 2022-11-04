@@ -15,4 +15,5 @@ public class Bus extends Transport{
         System.out.println("Можно заправлять бензином или дизелем на заправке");
     }
 
+
 }

@@ -23,4 +23,5 @@ public abstract class Birds extends Animals{
     abstract public void go();
     abstract public void hunt();
 
+
 }
