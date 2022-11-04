@@ -88,4 +88,5 @@ public class Train extends Transport {
         System.out.println("Нужно заправлять дизелем");
     }
 
+
 }

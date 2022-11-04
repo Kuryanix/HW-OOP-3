@@ -47,5 +47,6 @@ public class Flying extends Birds{
     public String toString() {
         return "Животное: " + name + ", возраст: " + age + ", среда обитания: " + biom + ", тип передвижения: " + typeOfMovement;
     }
+
 }
 

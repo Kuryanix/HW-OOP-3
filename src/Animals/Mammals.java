@@ -35,4 +35,5 @@ public abstract class Mammals extends Animals {
     abstract public void go();
     abstract public void walk();
 
+
 }

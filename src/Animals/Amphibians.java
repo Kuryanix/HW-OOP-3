@@ -54,4 +54,5 @@ public class Amphibians extends Animals {
             return Objects.equals(name, amphibians.name) && Objects.equals(age, amphibians.age) && Objects.equals(biom, amphibians.biom);
     }
 
+
 }
